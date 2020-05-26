@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<employees>
+    <employee id="1">
+        <firstName>Lokesh</firstName>
+        <lastName>Gupta</lastName>
+        <location>India</location>
+    </employee>
+    <employee id="2">
+        <firstName>Alex</firstName>
+        <lastName>Gussin</lastName>
+        <location>Russia</location>
+    </employee>
+    <employee id="3">
+        <firstName>David</firstName>
+        <lastName>Feezor</lastName>
+        <location>USA</location>
+    </employee>
+</employees>
